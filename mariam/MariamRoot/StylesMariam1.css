@@ -1,0 +1,229 @@
+@charset "UTF-8";
+body {
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    color: #151515;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-image: url(dark-blue-marble-texture-background-high-resolution-top-view-natural-tiles-stone-luxury-seamless-glitter-pattern-145549124.jpg);
+    background-repeat: repeat;
+}
+#container div {
+    background-color: #92BCFD;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h2 {
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    color: #388DC4;
+    text-align: left;
+    background-color: #FFFFFF;
+    font-size: x-large;
+}
+
+}
+h1 {
+    font-size: 72px;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+    font-family: alexa-std;
+    font-style: normal;
+    font-weight: 400;
+}
+#navigation ul {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-color: #F4EFEF;
+}
+#navigation ul li {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background-color: #75B8E4;
+}
+#navigation ul li a {
+    display: block;
+    background-color: #FFFFFF;
+    color: #D540C8;
+    text-decoration: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#banner img {
+    width: 100%;
+}
+#navigation ul li a:hover  {
+    color: #861B7D;
+    background-color: #E6F7F8;
+}
+.twoColumn {
+    width: 45%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 10px;
+    float: left;
+}
+.threeColumn {
+    width: 30%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-bottom: 10px;
+    float: left;
+}
+.oneColumn {
+    width: 95%;
+    padding-bottom: 10px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    float: left;
+}
+p5 {
+    text-decoration: none;
+    background-color: #F7F1BF;
+    text-align: center;
+}
+#banner #article p {
+    padding-bottom: 20px;
+}
+#Image2 {
+}
+em {
+    background-color: #FFFFFF;
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+}
+td    {
+    background-color: #F7F1BF;
+}
+#container div .amal {
+    padding-top: 10px;
+}
+#container #header #navigation {
+}
+#container div table {
+    padding-top: 10px;
+}
+#container div .tiktok {
+    padding-top: 10px;
+    padding-left: 11px;
+}
+.tiktok {
+}
+#Paris2 {
+    padding-left: 585px;
+    margin-left: 70px;
+}
+#Image3 {
+    padding-left: 40px;
+}
+.mm {
+    list-style-position: outside;
+    border-radius: 0px;
+    padding-left: 670px;
+    padding-top: 5px;
+}
+body div img {
+    padding-left: 600px;
+}
+.mmedia {
+    padding-left: 50px;
+    background-color: #FDE7E5;
+    text-decoration: none;
+    text-align: center;
+    background-repeat: repeat;
+}
+#Image4 {
+    padding-left: 580px;
+    padding-top: 5px;
+}
+#uni {
+    padding-left: 486px;
+}
+.click {
+    font-size: x-small;
+    text-align: left;
+    padding-left: 605px;
+}
+.mmedia {
+    padding-left: 100px;
+}
+.click {
+    padding-bottom: 15px;
+    text-align: left;
+    padding-left: 700px;
+}
+#footer p {
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    font-size: small;
+}
+#Image3 {
+    padding-left: 600px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#banner #article img {
+    padding-top: 0px;
+}
+#banner #article p {
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+}
+#container #header h1 {
+    text-align: center;
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+#Image2 {
+    padding-left: 600px;
+}
+div a img {
+    padding-left: 600px;
+}
+.1 {
+}
+#article p .1 {
+    padding-left: 320px;
+}
+.7 {
+    padding-left: 600px;
+}
+.7 {
+}
+body div a {
+}
+body div a {
+}
+#Image1 {
+    padding-right: 100px;
+}
+#banner #article img {
+    padding-right: 400px;
+}
+#article div img {
+}
+body img {
+    padding-left: 600px;
+}

@@ -1,0 +1,66 @@
+html body{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background-image: url("dubai.jpg");
+	background-size: 100% auto;
+}
+
+.container{
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.container a{
+	text-decoration: none;
+	color: white;
+}
+
+.card{
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	background-image: url("wood.png");
+	border-radius: 100px;
+	transition: 0.25s;
+}
+
+.card:hover{
+	transform: scale(1.15);
+}
+
+.card h1{
+	padding-top: 60px;
+}
+
+.wrapper{
+	display: flex;
+	color: white;
+	padding: 40px 200px 0px 200px;
+}
+
+.wrapper p{
+	padding: 38px 40px;
+	background-color: rgba(0,0,0,0.6);
+	border-radius: 120px;
+	border: 2px solid black;
+	font-size: 25px;
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center;
+}
+
+.wrapper img{
+	padding-right: 50px;
+	height: 250px;
+	width: auto;
+}
+
+.header{
+	padding: 0px;
+	margin: 0px;
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 40px;
+}

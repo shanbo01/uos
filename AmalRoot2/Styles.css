@@ -1,0 +1,197 @@
+@charset "UTF-8";
+body {
+    font-family: alegreya;
+    font-style: normal;
+    font-weight: 400;
+    color: #151515;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: #F9E9F6;
+    background-image: url(photos%3Avids/marble-2398946__340.jpg);
+    background-repeat: repeat;
+}
+#container div video {
+    padding-left: 240px;
+}
+#container div {
+}
+#container {
+    background-color: #FDE7E5;
+    width: 100%;
+    min-width: 800px;
+    max-width: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: 100px 100px;
+    padding-bottom: 50px;
+}
+p4 {
+}
+figure {
+    min-width: 270px;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2 {
+    font-family: abril-fatface;
+    font-style: normal;
+    font-weight: 250;
+    color: #E78FDF;
+    text-align: left;
+}
+h2 {
+    padding-left: 10px;
+}
+body {
+}
+#Image5 {
+	padding-left: 580px;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p {
+    text-align: left;
+    padding-left: 10px;
+}
+p2 {
+}
+#navigation ul {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+#navigation ul li {
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+#navigation ul li a {
+    display: block;
+    background-color: #FFFFFF;
+    color: #D540C8;
+    text-decoration: none;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#banner img {
+    width: 100%;
+}
+#navigation ul li a:hover  {
+    color: #861B7D;
+}
+.twoColumn {
+    width: 45%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 10px;
+    float: left;
+}
+.threeColumn {
+    width: 30%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-bottom: 10px;
+    float: left;
+}
+.oneColumn {
+    width: 95%;
+    padding-bottom: 10px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    float: left;
+}
+p5 {
+    text-decoration: none;
+    background-color: #F7F1BF;
+    text-align: center;
+}
+em {
+    background-color: #F7F1BF;
+}
+td    {
+    background-color: #F7F1BF;
+}
+#container div .amal {
+    padding-top: 10px;
+}
+#container div table {
+    padding-top: 10px;
+}
+#container div .tiktok {
+    padding-top: 10px;
+    padding-left: 11px;
+}
+.tiktok {
+}
+#Paris2 {
+    padding-left: 585px;
+    margin-left: 70px;
+}
+#Image3 {
+    padding-left: 40px;
+}
+.mm {
+	list-style-position: outside;
+	border-radius: 0px;
+	padding-left: 400px;
+	padding-top: 5px;
+}
+.mmedia {
+    padding-left: 50px;
+    background-color: #FDE7E5;
+    text-decoration: none;
+    text-align: center;
+    background-repeat: repeat;
+}
+#Image4 {
+    padding-left: 580px;
+    padding-top: 5px;
+}
+#uni {
+    padding-left: 486px;
+}
+.unitext {
+    text-align: center;
+    background-color: #FDE7E5;
+    padding-left: 50px;
+}
+.click {
+    font-size: x-small;
+    text-align: left;
+    padding-left: 605px;
+}
+.mmedia {
+    padding-left: 100px;
+}
+.click {
+    padding-bottom: 15px;
+    text-align: left;
+    padding-left: 700px;
+}
+.unitext {
+}
+#Imageunilogoinout {
+	padding-left: 600px;
+}
+#Image5paris {
+	padding-left: 580px;
+}
